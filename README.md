@@ -6,7 +6,7 @@ Structural design and validation of the **AISI 4130 chromoly spaceframe** for **
 
 **Headline:** chassis mass cut from **35 kg to 29.3 kg (-16.3%)** across prototypes, with a frontal impact factor of safety of about **1.70** under the 95 kN rules load.
 
-![Full vehicle CAD assembly](images/04-full-vehicle-cad-assembly.png)
+![Full vehicle CAD assembly](04-full-vehicle-cad-assembly.png)
 
 | | |
 |---|---|
@@ -56,20 +56,20 @@ Additional results from the validated design:
 ### Frontal impact, 95 kN (Prototype 4.1.2)
 Peak stress of 449.9 MPa against a 764 MPa yield gives a factor of safety of about 1.70.
 
-![Frontal impact static study, Prototype 4.1.2](images/05-static-frontal-prototype-4-1-2.jpeg)
+![Frontal impact static study, Prototype 4.1.2](05-static-frontal-prototype-4-1-2.jpeg)
 
 ### Front impact (Prototype 4.2)
-![Front impact study, Prototype 4.2](images/03-front-impact-prototype-4-2.png)
+![Front impact study, Prototype 4.2](03-front-impact-prototype-4-2.png)
 
 ### Torsional stiffness (Prototype 3.1)
 Equal and opposite 250 N loads twist the frame; stiffness is calculated from the resulting deflection.
 
-![Torsional stiffness study, Prototype 3.1](images/02-torsional-stiffness-prototype-3-1.png)
+![Torsional stiffness study, Prototype 3.1](02-torsional-stiffness-prototype-3-1.png)
 
 ### Design history: 2nd iteration
 An early frontal impact run, kept to show how the frame evolved.
 
-![Frontal impact, 2nd iteration](images/01-frontal-impact-2nd-iteration.png)
+![Frontal impact, 2nd iteration](01-frontal-impact-2nd-iteration.png)
 
 ## Limitations and next steps
 
