@@ -39,7 +39,7 @@ Values below are read directly from the screenshots in this repo. Note that the 
 | 2nd iteration | Frontal impact | 20,601 N | 340.6 MPa | 460 MPa | 1.35 |
 | Prototype 3.1 | Torsional stiffness | +/-250 N | 76.2 MPa | 460 MPa | 6.0 |
 | Prototype 4.1.2 | Frontal impact (95 kN total) | 23,750 N | 449.9 MPa | 764 MPa | **1.70** |
-| Prototype 4.2 | Front impact | not shown | 414.4 MPa | 775 MPa | 1.87 |
+| Prototype 4.2 | Front impact | 23,750 N | 414.4 MPa | 775 MPa | 1.87 |
 
 Additional results from the validated design:
 
